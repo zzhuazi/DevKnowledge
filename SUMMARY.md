@@ -1,6 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [\[序\]（README.md）](5e8f5d-ff08-readme-md.md)
-* [四大组件](android-activity.md)
-
+* [Part I](part1/README.md)
+    * [Writing is nice](part1/writing.md)
+    * [GitBook is nice](part1/gitbook.md)
+* [Part II](part2/README.md)
+    * [We love feedback](part2/feedback_please.md)
+    * [Better tools for authors](part2/better_tools.md)
