@@ -93,7 +93,7 @@ this.setResult(RESULT_CANCELED, new Intent());
 this.finish()
 ```
 
-### ! Activity A启动Activity B会调用哪些方法？如果B是透明主题或者DialogActivity呢？
+### ！ Activity A启动Activity B会调用哪些方法？如果B是透明主题或者DialogActivity呢？
 ### ！启动其他应用的Activity
 ## 结束Activity
 ## Activity生命周期
