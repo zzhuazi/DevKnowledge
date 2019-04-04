@@ -93,18 +93,18 @@ this.setResult(RESULT_CANCELED, new Intent());
 this.finish()
 ```
 
-### ！ Activity A启动Activity B会调用哪些方法？如果B是透明主题或者DialogActivity呢？
-### ！启动其他应用的Activity
+### ! Activity A启动Activity B会调用哪些方法？如果B是透明主题或者DialogActivity呢？
+### ! 启动其他应用的Activity
 ## 结束Activity
 ## Activity生命周期
 ### 声明周期回调
 ### 保存Activity状态
 ### 处理配置变更
 ### 协调Activity
-### ！横竖切屏Activity生命周期变化
+### ! 横竖切屏Activity生命周期变化
 ## Activity启动模式、应用场景
 ### 启动模式介绍
 ### 任务相关性（TaskAffinity）
 ## Activity标志位
 
-## ！Activity启动过程
+## ! Activity启动过程
