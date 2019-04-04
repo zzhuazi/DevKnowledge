@@ -7,6 +7,7 @@
 5. [第三方库](/part5/README.md)
 6. [Android系统](/part6/README.md)
 
+GitBook地址为：https://git.gitbook.com/zzhuazi/devknowledge.git
 
 
 
